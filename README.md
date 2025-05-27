@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Olá, eu sou Henrique Thomas !</h2>
+<h2 align="center">Olá, eu sou Henrique Thomas </h2>
 
 ###
 
